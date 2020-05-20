@@ -1,0 +1,4 @@
+git+https://github.com/banglakit/lemmatizer.git#egg=banglakit-lemmatizer
+tqdm
+pandas
+langdetect
